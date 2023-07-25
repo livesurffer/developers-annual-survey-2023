@@ -1,0 +1,41 @@
+In the StackOverflow survey, 89,184 developers participated, and the survey took place in May 2023, encompassing developers from around the world. Running the "analyse_country.py" script creates two files. The first one is "pie_chart_devel_country.png," which displays a pie chart representing the proportion of developers residing in each specific country based on the developers' annual survey in 2023.
+
+To ensure accuracy, the data is filtered to exclude countries where less than 2% of developers reside. These excluded countries are listed in the second file, "excluded_countries_list.png."
+
+Looking at the pie chart, the top 10 countries with the highest number of developers are:
+
+1. US - 33.18%
+2. Germany - 13.04%
+3. India - 10.01% 
+4. UK - 9.88%
+5. Canada - 6.24%
+6. France - 5.22%
+7. Poland - 4.33%
+8. Netherlands - 4.24%
+9. Australia - 3.7%
+10. Brazil - 3.63% 
+
+Let's categorize these countries as developed and developing based on data from https://worldpopulationreview.com/. Among the top 10 countries, there are 2 developing countries and 8 developed countries.
+
+1. US - 33.18% developed
+2. Germany - 13.04% developed
+3. India - 10.01% developing
+4. UK - 9.88% developed
+5. Canada - 6.24% developed
+6. France - 5.22% developed
+7. Poland - 4.33% developed
+8. Netherlands - 4.24% developed
+9. Australia - 3.7% developed
+10. Brazil - 3.63% developing
+
+
+Let's explore the potential connection between the developing IT industry of each country and the count of developers residing there:
+
+Starting with the US, known for its robust IT industry, it comprises 33.18% of the developers on the list, almost three times more than the second-ranked Germany. The US IT market is highly popular among developers, and it actively seeks IT talents.
+
+Germany and the UK, both strong economies in Europe, also boast thriving IT industries that attract developers with their abundant opportunities.
+
+India, a developing country and ranked third on the list, has been heavily investing in its IT industry, making it a significant player in the global tech landscape. It closely trails Germany and the UK with a percentage of 10.01.
+
+n conclusion, the data analysis indicates a correlation between the development of the IT industry in various countries and the count of developers residing there. Countries with robust and growing IT industries tend to attract a higher number of developers, suggesting a potential link between industry development and developer presence. However, further in-depth research and consideration of various factors are required to establish definitive causal relationships between these variables.
+P.S. China is also on the list as well, but with only 0.74% of developers. StackOverFlow announced about global world survey but who knows. Anyway Statistic are Statistic. 
