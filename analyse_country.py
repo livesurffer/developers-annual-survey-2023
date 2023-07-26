@@ -37,6 +37,7 @@ filtered_countries = []
 filtered_percentages = []
 excluded_countries = []
 
+#loop to put countries and percentage into individual lists and filter specific country
 for country, percentage in zip(countries, percentages):
     if percentage >= 2:
         filtered_countries.append(country)
