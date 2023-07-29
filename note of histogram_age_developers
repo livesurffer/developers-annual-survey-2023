@@ -1,4 +1,4 @@
-The note about histogram_age_developers.png and age_chart.py:
+#The note about histogram_age_developers.png and age_chart.py:
 
 In the histogram, we can see some interesting facts about the ages of developers who took part in the survey:
 
@@ -10,4 +10,22 @@ In the histogram, we can see some interesting facts about the ages of developers
 
 This shows that the IT industry is mainly made up of younger people. Many young individuals are interested in studying and working in technology.
 
-In summary, the histogram helps us understand the different age groups of developers in the industry and how young people are playing a significant role in shaping the future of technology.
+In summary, the histogram helps us understand the different age groups of developers in the industry and 
+how young people are playing a significant role in shaping the future of technology.
+
+
+
+#Примечание к histogram_age_developers.png и age_chart.py:
+
+На гистограмме мы можем увидеть несколько интересных фактов о возрастах разработчиков, которые приняли участие в опросе:
+
+Около 62% разработчиков моложе 35 лет. Это означает, что большое количество разработчиков относительно молоды.
+
+Примерно 37,3% разработчиков старше 35 лет. Таким образом, в отрасли также много опытных разработчиков.
+
+Очень малая доля, около 0,5%, не указала свой возраст в опросе.
+
+Это показывает, что IT-индустрия в основном состоит из молодых людей. Множество молодых людей проявляют интерес к изучению и работе в области технологий.
+
+В итоге, полученные данные и график помогает нам понять различные возрастные группы разработчиков в отрасли
+и как молодые люди играют значительную роль в формировании будущего технологий.
